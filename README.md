@@ -6,6 +6,11 @@
 
 <br>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmbdesignpdx&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
