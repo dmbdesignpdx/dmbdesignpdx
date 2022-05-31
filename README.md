@@ -1,4 +1,4 @@
-![I love to code](https://capsule-render.vercel.app/api?height=250&type=waving&color=gradient&customColorList=14&section=header&text=%F0%9F%92%80%20%F0%9F%96%A4%20%F0%9F%92%BB&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35)
+![I love to code](https://capsule-render.vercel.app/api?height=250&type=waving&color=gradient&customColorList=14&section=header&text=%F0%9F%92%80%20%F0%9F%96%A4%20%F0%9F%92%BB&fontSize=34&fontColor=fff&animation=fadeIn&fontAlignY=40)
 
 <br>
 
