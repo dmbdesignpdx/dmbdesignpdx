@@ -9,10 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   5 hrs 55 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.28 %
-GraphQL      4 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
-Astro        3 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 %
-Other        2 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
+From: 24 May 2022 - To: 31 May 2022
+
+Total Time: 21 hrs 39 mins
+
+TypeScript   5 hrs 34 mins   ██████░░░░░░░░░░░░░░░░░░░   23.59 %
+GraphQL      4 hrs           ████▒░░░░░░░░░░░░░░░░░░░░   16.97 %
+Astro        3 hrs 31 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 %
+Dart         2 hrs 21 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
+Text         2 hrs 19 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
+Other        1 hr 57 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
 ```
 
 <!--END_SECTION:waka-->
