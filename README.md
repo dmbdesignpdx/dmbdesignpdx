@@ -2,7 +2,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,dart,react,vue,astro,nextjs,nuxtjs,svelte,remix,gatsby,flutter,jest,sass,styledcomponents,tailwind,materialui,nodejs,graphql,git,netlify,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,dart,react,vue,astro,nextjs,nuxtjs,svelte,remix,gatsby,flutter,jest,sass,styledcomponents,tailwind,materialui,nodejs,graphql,git,netlify,ai,figma)](https://skillicons.dev)
 
 <br>
 
