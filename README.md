@@ -8,6 +8,15 @@
 
 
 <!--START_SECTION:waka-->
+```text
+Week: 01 September, 2022 - 08 September, 2022
+
+TypeScript   15 hrs 59 mins  ██████████████████████▒░░   88.71 % 
+Other        1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+JSON         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+CSS          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+SCSS         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+```
 <!--END_SECTION:waka-->
 
 
