@@ -9,7 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 September, 2022 - 08 September, 2022
+Week: 02 September, 2022 - 09 September, 2022
 
 TypeScript   15 hrs 59 mins  ██████████████████████▒░░   88.71 % 
 Other        1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
