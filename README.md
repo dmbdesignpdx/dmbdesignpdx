@@ -9,13 +9,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 September, 2022 - 29 September, 2022
+Week: 23 September, 2022 - 30 September, 2022
 
-TypeScript   16 hrs 26 mins  ████████████████████▓░░░░   82.65 % 
-Other        56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-JavaScript   49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Text         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-CSS          26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+TypeScript   17 hrs 27 mins  █████████████████████░░░░   83.91 % 
+Other        50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+JavaScript   49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Text         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+CSS          26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 ```
 <!--END_SECTION:waka-->
 
