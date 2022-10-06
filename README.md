@@ -9,12 +9,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 September, 2022 - 04 October, 2022
+Week: 28 September, 2022 - 05 October, 2022
 
-TypeScript   12 hrs 57 mins  ███████████████████████▒░   93.37 % 
-JavaScript   29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Other        22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+TypeScript   11 hrs 35 mins  ████████████████████████░   96.66 % 
+Other        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 <!--END_SECTION:waka-->
 
