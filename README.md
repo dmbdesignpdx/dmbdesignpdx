@@ -9,13 +9,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 October, 2022 - 15 October, 2022
+Week: 09 October, 2022 - 16 October, 2022
 
-TypeScript   12 hrs 43 mins  ████████████████░░░░░░░░░   64.19 % 
-Markdown     5 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   27.42 % 
-JavaScript   48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Other        23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+TypeScript   9 hrs 2 mins    ███████████████▒░░░░░░░░░   60.77 % 
+Markdown     5 hrs 9 mins    ████████▓░░░░░░░░░░░░░░░░   34.61 % 
+JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Text         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 ```
 <!--END_SECTION:waka-->
 
