@@ -6,19 +6,4 @@
 
 <br>
 
-
-<!--START_SECTION:waka-->
-```text
-Week: 17 October, 2022 - 24 October, 2022
-
-TypeScript   2 hrs 20 mins   █████████████████████░░░░   84.35 % 
-JSON         15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Other        9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-```
-<!--END_SECTION:waka-->
-
-
-<br>
-
 [![My Spotify](https://spotify-github-profile.vercel.app/api/view?uid=dmblakedesign&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
