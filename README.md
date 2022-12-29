@@ -8,7 +8,7 @@
 
 ## Sleeping
 
-[![My Skills](https://skillicons.dev/icons?i=dart,gatsby,flutter,jest,tailwind,materialui,angular,lit,ember,jquery,coffeescript,apollo,bootstrap,emotion,redux,rollupjs,firebase,tensorflow,webpack,ae,pr,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,gatsby,flutter,tailwind,materialui,angular,lit,ember,jquery,coffeescript,apollo,bootstrap,emotion,redux,rollupjs,firebase,tensorflow,webpack,ae,pr,xd)](https://skillicons.dev)
 
 <br>
 
