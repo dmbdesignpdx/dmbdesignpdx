@@ -4,11 +4,11 @@
 
 ## Active
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,svg,react,vue,astro,nextjs,nuxtjs,svelte,remix,jest,sass,styledcomponents,nodejs,deno,graphql,git,netlify,vercel,supabase,ai,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,svg,react,vue,astro,nextjs,nuxtjs,svelte,flutter,dart,jest,sass,styledcomponents,nodejs,deno,graphql,git,netlify,vercel,supabase,ai,figma)](https://skillicons.dev)
 
 ## Sleeping
 
-[![My Skills](https://skillicons.dev/icons?i=dart,gatsby,flutter,tailwind,materialui,angular,lit,ember,jquery,coffeescript,apollo,bootstrap,emotion,redux,rollupjs,firebase,tensorflow,webpack,ae,pr,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gatsby,tailwind,materialui,remix,angular,lit,ember,jquery,coffeescript,apollo,bootstrap,emotion,redux,rollupjs,firebase,tensorflow,webpack,ae,pr,xd)](https://skillicons.dev)
 
 <br>
 
