@@ -12,4 +12,4 @@
 
 <br>
 
-[![My Spotify](https://spotify-github-profile.vercel.app/api/view?uid=dmblakedesign&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![My Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=dmblakedesign&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
