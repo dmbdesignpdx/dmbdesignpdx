@@ -8,23 +8,22 @@
 
 ### Active
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,svg,svelte,react,astro,nextjs,vite,vitest,flutter,dart,sass,styledcomponents,nodejs,pnpm,npm,graphql,git,netlify,vercel,postman,ai,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,svg,svelte,react,astro,nextjs,vite,vitest,vue,flutter,dart,sass,styledcomponents,nodejs,pnpm,npm,graphql,mysql,postgresql,sqlite,supabase,git,netlify,vercel,postman,ai,figma)](https://skillicons.dev)
 
 ### Sleeping
 
-[![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,supabase,jest,solidjs,gatsby,tailwind,materialui,remix,angular,lit,ember,yarn,jquery,coffeescript,apollo,babel,bootstrap,emotion,redux,gulp,deno,rollupjs,firebase,tensorflow,webpack,ae,pr,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nuxtjs,jest,solidjs,gatsby,tailwind,materialui,remix,angular,lit,ember,yarn,jquery,coffeescript,apollo,babel,bootstrap,emotion,redux,gulp,deno,rollupjs,firebase,tensorflow,webpack,ae,pr,xd)](https://skillicons.dev)
 
 ### Learning
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,kotlin,spring)](https://skillicons.dev)
-
-
-<br>
-
-[![My Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=dmblakedesign&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring)](https://skillicons.dev)
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielblakepdx)
 [![Meetup](https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white)](https://www.meetup.com/members/266104208)
 
+
+<br>
+
+[![My Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=dmblakedesign&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
