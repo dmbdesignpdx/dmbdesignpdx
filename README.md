@@ -1,4 +1,5 @@
-![I love data](https://capsule-render.vercel.app/api?height=250&type=waving&color=gradient&customColorList=14&section=header&text=%F0%9F%92%80%20%F0%9F%96%A4%20%F0%9F%92%BB&fontSize=34&fontColor=fff&animation=fadeIn&fontAlignY=40)
+![I love data](https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&customColorList=6&text=%F0%9F%92%80%20%F0%9F%96%A4%20%F0%9F%93%8A&textBg=false&fontSize=50&fontAlignY=45&animation=fadeIn)
+
 
 #### Hello there! I'm a software engineer with a focus on data engineering and data visualization.
 
@@ -8,12 +9,12 @@
 
 ### Active
 
-[![My Skills](https://skillicons.dev/icons?i=bash,figma,graphql,java,js,kafka,mongodb,mysql,nodejs,postgres,postman,prisma,py,sqlite,supabase,git,dart,apollo,npm,pnpm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,figma,graphql,java,js,kafka,mongodb,mysql,nodejs,postgres,cassandra,redis,postman,prisma,py,sqlite,supabase,git,dart,apollo,npm,pnpm)](https://skillicons.dev)
 
 
 ### Learning
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,elasticsearch,docker,cassandra,prometheus,r,redis,scala,rust,go,anaconda)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,elasticsearch,docker,prometheus,r,scala,rust,go,anaconda)](https://skillicons.dev)
 
 ### Gear
 
