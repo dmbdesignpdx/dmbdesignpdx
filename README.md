@@ -6,7 +6,7 @@
 
 ### Core
 
-[![My Skills](https://skillicons.dev/icons?i=react,astro,nextjs,bash,graphql,postgres,nodejs,postman,py,supabase,netlify,vercel,vite,vitest,sass,styledcomponents,git,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,astro,nextjs,bash,graphql,postgres,mysql,npm,pnpm,nodejs,bun,postman,py,supabase,netlify,vercel,vite,vitest,sass,styledcomponents,git,codepen)](https://skillicons.dev)
 
 ### New
 
