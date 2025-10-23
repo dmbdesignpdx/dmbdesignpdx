@@ -10,7 +10,7 @@
 
 ### Familiar
 
-[![My Skills](https://skillicons.dev/icons?i=astro,vue,nuxtjs,solidjs,svelte,vite,redux,jest,express,apollo,mongodb,postgres,figma,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=astro,vue,nuxtjs,solidjs,svelte,pug,vite,redux,jest,express,apollo,mongodb,postgres,figma,docker)](https://skillicons.dev)
 
 
 ### Gear
