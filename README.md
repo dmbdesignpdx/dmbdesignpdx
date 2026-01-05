@@ -34,4 +34,4 @@ Outside the realm of data I am a Star Wars nerd, movie buff, avid gamer, Portlan
 
 🎮
 
-Current game: _Assassin's Creed: Shadows_
+Current game: _Death Stranding 2: On the Beach_
