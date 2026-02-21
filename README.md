@@ -2,20 +2,18 @@
 
 <br>
 
+## Gear
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind)](https://skillicons.dev)
+
 ## Spells
 
-### Core
+### Primary
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,styledcomponents,bun,pnpm,nodejs,graphql,vitest,svg,netlify,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,astro,sass,styledcomponents,bun,pnpm,nodejs,graphql,vite,vitest,svg,netlify,git)](https://skillicons.dev)
 
 ### Familiar
 
-[![My Skills](https://skillicons.dev/icons?i=astro,vue,nuxtjs,solidjs,svelte,pug,vite,redux,jest,express,apollo,mongodb,postgres,figma,docker)](https://skillicons.dev)
-
-
-### Gear
-
-[![My Skills](https://skillicons.dev/icons?i=apple,webstorm,github,codepen,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,solidjs,svelte,pug,redux,jest,express,apollo,mongodb,postgres,figma,docker)](https://skillicons.dev)
 
 <br>
 
