@@ -1,6 +1,6 @@
 ![I love data](https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&customColorList=4&text=%F0%9F%92%80%20%F0%9F%96%A4%20%F0%9F%92%BB&textBg=false&fontSize=50&fontAlignY=45&animation=fadeIn)
 
-# Software Enginner
+# Software Engineer
 
 I've been crafting frontend experiences for over five years; from microsites to hybrid web applications, and from startups to large companies like Nike.
 
